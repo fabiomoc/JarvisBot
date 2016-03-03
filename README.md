@@ -1,2 +1,0 @@
-# JarvisBot
-Telegram Bot

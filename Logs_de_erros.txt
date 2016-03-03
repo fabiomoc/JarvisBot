@@ -1,0 +1,7 @@
+
+#Erro! Função  2016-03-02 17:40:02.322603
+Mensagem de erro:
+
+Mensagem que originou o erro:
+{'chat': {'username': None, 'first_name': None, 'last_name': None, 'title': u"Bot's Office", 'type': u'group', 'id': -110535824}, 'new_chat_participant': {'username': u'will_shell_bot', 'first_name': u'My Computer', 'last_name': None, 'id': 197046811}, 'content_type': 'new_chat_participant', 'from_user': {'username': u'B1zzy1', 'first_name': u'Willian', 'last_name': u'Lopes', 'id': 31072795}, 'date': 1456951187, 'message_id': 6883}
+------------------------------------

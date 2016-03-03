@@ -13,7 +13,7 @@ from oauth2client.tools import argparser
 
 
 def pesquisa(arg):
-  DEVELOPER_KEY = "<DEVELOPER_KEY>"
+  DEVELOPER_KEY = "AIzaSyD9YO_dl4jmsNfKBHq4OuYCZ77d-9Tut7s"
   YOUTUBE_API_SERVICE_NAME = "youtube"
   YOUTUBE_API_VERSION = "v3"
   youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
@@ -48,7 +48,7 @@ def pesquisa(arg):
   playlistss = "Playlists:\n", "\n".join(playlists), "\n"
   res = []
   for resu in videoss:
-		res.append(resu)
+    res.append(resu)
   
   res1 = str(res[0].encode('utf-8'))
   res2 = str(res[1].encode('utf-8'))
